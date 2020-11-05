@@ -4,7 +4,7 @@
 //     34543
 //    4567654
 
-
+// solution of above question
 #include <iostream>
 using namespace std;
 int main() {
