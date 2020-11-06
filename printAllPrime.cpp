@@ -1,7 +1,7 @@
 // To print all prime number till N
 
 
-
+//solution
 #include <iostream>
 using namespace std;
 int main() {
